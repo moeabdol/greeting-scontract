@@ -1,0 +1,31 @@
+{
+  "name": "greeting-scontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeabdol/greeting-scontract.git"
+  },
+  "author": "moeabdol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moeabdol/greeting-scontract/issues"
+  },
+  "homepage": "https://github.com/moeabdol/greeting-scontract#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-es6-recommended": "^0.1.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "prettier-plugin-solidity": "^1.0.0-alpha.27",
+    "solhint": "^2.1.0"
+  }
+}
